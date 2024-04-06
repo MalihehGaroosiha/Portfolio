@@ -1,10 +1,4 @@
-Data scientist\
 
-Master in statistics\
-
-Data Analytics, Big Data, and Predictive Analytics certification\
-
-
- **Position:** Data Scientist\
+ **Position:** Data Scientist, Data Analyst\
  **Education:** Master's degree in Statistics\
  **Certifications:** Data Analytics, Big Data, and Predictive Analytics

@@ -1,5 +1,5 @@
-# Data scientist
+*Data scientist*\
 
-#Education
+*Master in statistics*\
 
-#projects
+*Data Analytics, Big Data, and Predictive Analytics certification*\
